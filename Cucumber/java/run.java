@@ -1,4 +1,4 @@
-package stepdefination;
+package Cucumber.java;
 
 import org.junit.runner.Runwith; import cucumber.junit.Cucumber;
 
